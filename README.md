@@ -1,16 +1,28 @@
-### Hi there 👋
+### Bem- vindo! Sou Fernando Rodrigues 🤙🏾
+#### Esse é o nosso espaço.
 
-<!--
-**FernandoR7/FernandoR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Rede](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fer-r-costa/)
+[![Rede](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5zWqeWZI9QK7SR1i9oRSJ5)
+</BR>
+</BR>
 
-Here are some ideas to get you started:
+![FernandoR7's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoR7&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoR7&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</BR>
+</BR>
+
+### Tecnologias - 🖥️
+
+![Rede](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Rede](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Rede](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Rede](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rede](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rede](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</BR>
+
+</BR>
+
+### Busco oportunidade de ingressar na área de desenvolvimento, trazendo dedicação, paixão e habilidades adquiridas durante minha formação. Com conhecimentos em Python e desenvolvimento web, estou pronto para enfrentar desafios e aprendizado ativo, contribuindo para projetos inovadores como desenvolvedor júnior.
