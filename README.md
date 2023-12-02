@@ -10,14 +10,13 @@
 -----------------------------------------------------------------------------------------
 </BR>
 
-![FernandoR7's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoR7&show_icons=true&theme=radical)
------------------------------------------------------------------------------------------
+![FernandoR7's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoR7&show_icons=true&theme=radical) 
 
-</BR>
-</BR>
- 
-### Tecnologias - 🖥️
 -----------------------------------------------------------------------------------------
+</BR>
+
+### Tecnologias - 🖥️
+</BR>
 
 ![Rede](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Rede](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -26,8 +25,6 @@
 ![Rede](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rede](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-</BR>
-
-</BR>
-
-### Busco oportunidade de ingressar na área de desenvolvimento, trazendo dedicação, paixão e habilidades adquiridas durante minha formação. Com conhecimentos em Python e desenvolvimento web, estou pronto para enfrentar desafios e aprendizado ativo, contribuindo para projetos inovadores como desenvolvedor júnior.
+-----------------------------------------------------------------------------------------
+</BR> 
+ Busco oportunidade de ingressar na área de desenvolvimento, trazendo dedicação, paixão e habilidades adquiridas durante minha formação. Com conhecimentos em Python e desenvolvimento web, estou pronto para enfrentar desafios e aprendizado ativo, contribuindo para projetos inovadores como desenvolvedor júnior.
