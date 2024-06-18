@@ -27,4 +27,4 @@
 
 -----------------------------------------------------------------------------------------
 </BR> 
- Busco oportunidade de ingressar na área de desenvolvimento, trazendo dedicação, paixão e habilidades adquiridas durante minha formação. Com conhecimentos em Python e desenvolvimento web, estou pronto para enfrentar desafios e aprendizado ativo, contribuindo para projetos inovadores como desenvolvedor júnior.
+ Na área de desenvolvimento, trazendo dedicação, entusiasmo e habilidades adquiridas durante minha formação. Com conhecimentos em Python e desenvolvimento web, estou pronto para enfrentar desafios e aprender ativamente, contribuindo para projetos inovadores como desenvolvedor júnior.
