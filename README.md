@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-![GitHub Snake Dark Animation](./dist/github-snake-dark.svg?palette=github-dark)
+
 
 
 ###
