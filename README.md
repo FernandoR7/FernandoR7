@@ -36,6 +36,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Dark Animation](./dist/github-snake-dark.svg?palette=github-dark)
+
 
 ###
