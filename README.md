@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Fernando.</h2>
-
+<h2 align="left">Hi 👋! Portifolio: https://fnando.vercel.app/</h2>
 ###
 
 <div align="center">
@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FERNANDOR7/FERNANDOR7/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
