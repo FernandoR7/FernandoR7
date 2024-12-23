@@ -25,7 +25,7 @@
 <h3 align="left">Social Media:</h3>
 
 <div align="left">
-  <a href="https://www.instagram.com/seu_instagram" target="_blank">
+  <a href="https://www.instagram.com/ferdev7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="mailto:frnandocosta90@gmail.com" target="_blank">
