@@ -1,41 +1,32 @@
-<h2 align="left">Hi 👋! My name is Fernando.</h2>
+# Olá, seja bem-vindo(a)! 👋
 
-<h3 align="left">Portfólio: <a href="https://fnando.vercel.app/" target="_blank">https://fnando.vercel.app/</a></h3>
+Sou o Fernando, desenvolvedor e empreendedor apaixonado por tecnologia. Atualmente, presto serviços para empresas, sempre focado em entregar soluções completas e de qualidade.
 
----
+## 🚀 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoR7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoR7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+- **Full Stack:**  
+  Possuo ampla experiência em front-end utilizando **Vue**, **JavaScript**, **HTML**, **CSS** e também trabalho com **React**. No back-end, **Python** é minha principal ferramenta para implementar soluções robustas e eficientes.
 
----
+- **Inteligência Artificial:**  
+  Também atuo no desenvolvimento de soluções envolvendo **inteligência artificial**, explorando o potencial de machine learning e automação para gerar mais valor aos projetos.
 
-<h3 align="left">Languages and Tools:</h3>
+- **Projetos Privados:**  
+  No momento, meus projetos são privados e não podem ser compartilhados publicamente, mas cada entrega é realizada com atenção aos detalhes e compromisso com o resultado.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-</div>
 
----
 
-<h3 align="left">Social Media:</h3>
+## 💡 Diferenciais
 
-<div align="left">
-  <a href="https://www.instagram.com/ferdev7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="mailto:frnandocosta90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/fer-r-costa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+- Entrego projetos de ponta a ponta: do desenvolvimento ao deploy, passando por arquitetura, definição de soluções e aplicações com inteligência artificial.
+- Tenho facilidade para atuar em diferentes áreas, com foco em resultados e inovação.
+- Estou sempre em busca de aprimoramento, mantendo um perfil colaborativo e proativo.
+
+## 🌐 Vamos nos conectar?
+
+Se quiser conversar sobre tecnologia, parcerias ou oportunidades, entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fer-r-costa/)
 
 ---
 
-<br clear="both">
+Conte comigo para criar e desenvolver soluções inovadoras!
